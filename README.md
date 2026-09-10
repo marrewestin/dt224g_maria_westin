@@ -9,7 +9,7 @@ Webbplatsen är publicerad på följande platser:
 - https://dt224g-maria-westin.netlify.app/
 ## Frågor
 1. Vad är skillnaden mellan git add och git commit?
-**Svar:** *git add* lägger till filer till *staging area* och *git commit* sparar filerna.
+**Svar:** *git add* lägger till filer till staging area och *git commit* sparar filerna.
 2. Varför använder man branches istället för att jobba direkt i main?
 **Svar:** Med branches kan man göra förändringar som inte publiceras på den skarpa sidan förrän man är redo och gör en merge. På så sätt går det lätt att ångra om det inte blir bra, bara ta bort branchen. Flera personer kan jobba samtidigt i oliga branches utan att störa varandra. Och man kan låta någon godkänna branchen innan den mergas.
 3. Vad händer rent praktiskt när man gör en merge?
